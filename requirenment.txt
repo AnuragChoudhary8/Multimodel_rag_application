@@ -1,0 +1,17 @@
+streamlit
+langchain
+langchain-openai
+langchain-core
+langchain-community
+unstructured[all-docs]
+pillow
+lxml
+faiss-cpu
+chromadb
+tesseract
+unstructured-pytesseract
+python-multipart
+pytesseract
+pdfminer.six
+python-dotenv
+unstructured[pdf]
