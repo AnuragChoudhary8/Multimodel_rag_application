@@ -9,7 +9,6 @@ lxml
 faiss-cpu
 chromadb
 python-multipart
-pytesseract
 pdfminer.six
 python-dotenv
-unstructured[pdf,pytesseract,all-docs]
+pytesseract
