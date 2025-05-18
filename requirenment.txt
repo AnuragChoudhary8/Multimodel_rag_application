@@ -12,4 +12,4 @@ python-multipart
 pytesseract
 pdfminer.six
 python-dotenv
-unstructured
+unstructured[pdf,pytesseract,all-docs]
