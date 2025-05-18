@@ -14,3 +14,4 @@ python-multipart
 pytesseract
 pdfminer.six
 python-dotenv
+unstructured[pdf]
