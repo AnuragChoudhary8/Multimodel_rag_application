@@ -9,7 +9,7 @@ lxml
 faiss-cpu
 chromadb
 tesseract
-unstructured-pytesseract
+unstructured
 python-multipart
 pytesseract
 pdfminer.six
