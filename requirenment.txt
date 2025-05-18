@@ -1,0 +1,12 @@
+streamlit
+langchain
+langchain-openai
+langchain-core
+langchain-community
+unstructured[all-docs]
+pillow
+lxml
+faiss-cpu
+tesseract
+unstructured-pytesseract
+python-multipart
